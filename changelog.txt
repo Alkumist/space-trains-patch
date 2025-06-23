@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 04. 12. 2025
+  Bugfixes:
+    - Allowed Train signals and stations to be built in space, sorry to everyone who downloaded this mod before this patch.
+      Zero clue how i could've forgotten these very important train components.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 01. 04. 2025
+  Bugfixes:
+    - Fixed the title and description because i forgot to change them.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 01. 04. 2025
+  Features:
+    - Initial Release
+---------------------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+{
+	"name":"space-trains-patch",
+	"title":"Trains in Space!",
+	"description":"Allows you to use trains in Space",
+	"author":"Alkumist",
+	"version":"1.0.3",
+	"factorio_version":"2.0",
+	"dependencies": ["base", "space-age"]
+}
